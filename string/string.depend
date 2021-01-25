@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1596006709 source:d:\programming\mycprograms\string\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1595937716 source:d:\programming\mycprograms\sumoftwomatrices\main.c
+	<stdio.h>
+	<stdlib.h>
+
